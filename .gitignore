@@ -2,3 +2,6 @@
 *env
 *..gitignore.swp
 media/
+db.sqlite3
+__pycache__
+__pycache__/
